@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6058'
     url: http://www.gutenberg.org/2009/agents/6058
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15440#Kansallista-itsetutkisteluaSuomalaisia-kulttuuri---riviivoja
 gutenberg_issued: '2005-03-23'
 gutenberg_type: Text
 identifiers:
